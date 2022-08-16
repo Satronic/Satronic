@@ -5,13 +5,13 @@
 #### Mis primeras experiencias con el desarrollo de software inician con el lenguaje C y ensamblador para la programación de sistemas embebidos. Luego con el desarrollo de la Web 2.0 y tecnologias como IoT y domotica inicia mi interés por las aplicaciones Web.
 
 #### Realice mis primeros desarrollos con el CMS WordPress y luego con el fin de tener un control mas directo sobre el software empiezo a profundizar en los lengajes del front-end HTML y CSS. Finalmente descubro JavaScript, su popularidad, versatilidad y baja curva de aprendizaje asi que decido comenzar mi formación como Full Stack Developer.
-##
 
 #
 ## ⚙ PROYECTOS
-### - HexaTech - E-Commerce
-### - Dogs - App
-##
+### - HexaTech - E-Commerce ([Link Repossitorio Back-end](https://github.com/PF-Henry/E-Commerce-API) | [Link repositorio Back-end](https://github.com/PF-Henry/E-Commerce-Client))
+### - Dogs - App ([Link Repossitorio App](https://github.com/Satronic/PI-Dogs))
+
+#
 ## 🖥 TECNOLOGIAS
 ### Bases de Datos
 | Lenguaje | SGDB | ORM |
