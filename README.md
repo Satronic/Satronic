@@ -8,8 +8,8 @@
 
 #
 ## ⚙ PROYECTOS
-### - HexaTech - E-Commerce ([Link Repossitorio Back-end](https://github.com/PF-Henry/E-Commerce-API) | [Link repositorio Back-end](https://github.com/PF-Henry/E-Commerce-Client))
-### - Dogs - App ([Link Repossitorio App](https://github.com/Satronic/PI-Dogs))
+#### - HexaTech - E-Commerce ([Link Repossitorio Back-end](https://github.com/PF-Henry/E-Commerce-API) | [Link repositorio Back-end](https://github.com/PF-Henry/E-Commerce-Client))
+#### - Dogs - App ([Link Repossitorio App](https://github.com/Satronic/PI-Dogs))
 
 #
 ## 🖥 TECNOLOGIAS
