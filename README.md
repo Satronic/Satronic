@@ -1,9 +1,9 @@
 ![Texto alternativo](https://res.cloudinary.com/satronic/image/upload/v1660452541/Software_Developer_1_bjpvre.jpg "Full Stack Developer")
 ## 👋 SOBRE MI
 #### Ingeniero electrónico con conocimiento y experiencia como desarrollador Full Stack, aplicando patrones de diseño y buenas practicas en el análisis, diseño y desarrollo de aplicaciones web. Curioso, autodidacta, creativo y apasionado por el impacto de las tecnologia en la vida del ser humano y el desarrollo de la sociedad.
-##
+
 #### Mis primeras experiencias con el desarrollo de software inician con el lenguaje C y ensamblador para la programación de sistemas embebidos. Luego con el desarrollo de la Web 2.0 y tecnologias como IoT y domotica inicia mi interés por las aplicaciones Web.
-##
+
 #### Realice mis primeros desarrollos con el CMS WordPress y luego con el fin de tener un control mas directo sobre el software empiezo a profundizar en los lengajes del front-end HTML y CSS. Finalmente descubro JavaScript, su popularidad, versatilidad y baja curva de aprendizaje asi que decido comenzar mi formación como Full Stack Developer.
 ##
 
